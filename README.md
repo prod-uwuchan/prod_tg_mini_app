@@ -1,3 +1,4 @@
+<img width="738" height="308" alt="Новость" src="https://github.com/user-attachments/assets/5b6e8ac3-c646-4fdc-86c1-ee89fe7b8c09" />
 <img width="750" height="210" alt="Сезон 12" src="https://github.com/user-attachments/assets/487f4182-b2ab-47be-a961-9b79accedba7" />
 # prod_tg_mini_app
 prod_tg_mini_app
