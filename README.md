@@ -22,3 +22,4 @@
 <img width="750" height="210" alt="Мегафон Новость Важная" src="https://github.com/user-attachments/assets/2bcf1b00-d223-4baf-84d7-8fbd9a4daf73" />
 <img width="750" height="210" alt="Кэшбек" src="https://github.com/user-attachments/assets/e8253429-637d-47dc-9ce5-36dcee1785d3" />
 <img width="750" height="210" alt="Кубок Рейтинг" src="https://github.com/user-attachments/assets/3588c7ef-d4a3-449f-93e7-5fc9203a60fb" />
+<img width="1536" height="864" alt="ПОЛНЫЙ БАНЕР БОТА" src="https://github.com/user-attachments/assets/c93dba9c-1af0-4de2-b425-1cd4a1681f75" />
